@@ -1,0 +1,52 @@
+import pandas as pd
+import re
+
+# Função para separar a coluna the_geom em duas
+def separar_geom(df):
+    # Criar novas colunas para armazenar os valores divididos
+    df['multipolygon'] = None
+    df['coordenadas'] = None
+
+    # Iterar sobre cada linha da coluna the_geom
+    for i, valor in enumerate(df['the_geom']):
+        if isinstance(valor, str):
+            # Verificar se o valor é do tipo MULTIPOLYGON
+            if 'MULTIPOLYGON' in valor:
+                # Extrair o valor MULTIPOLYGON
+                multipolygon_match = re.search(r'MULTIPOLYGON\s*\(\s*(\([^\)]+\))\s*\)', valor)
+                if multipolygon_match:
+                    df.at[i, 'multipolygon'] = multipolygon_match.group(0)
+            
+            # Extrair os valores numéricos (coordenadas)
+            coordenadas_match = re.findall(r'[\d\.\-]+', valor)
+            if coordenadas_match:
+                df.at[i, 'coordenadas'] = ', '.join(coordenadas_match)
+
+    return df
+
+# Função para tratar o CSV
+def tratar_csv(caminho_arquivo):
+    # Carregar o arquivo CSV
+    df = pd.read_csv(caminho_arquivo)
+
+    # Substituir valores nulos (NaN) por 0
+    df = df.fillna(0)
+
+    # Verificar e separar a coluna the_geom
+    if 'the_geom' in df.columns:
+        df = separar_geom(df)
+
+    # Retornar o DataFrame tratado
+    return df
+
+# Caminho do arquivo CSV (substitua pelo caminho correto)
+caminho_arquivo = 'ClimadoBrasil_5000.csv'
+
+# Tratar os dados
+df_tratado = tratar_csv(caminho_arquivo)
+
+# Exibir o DataFrame tratado
+print(df_tratado)
+
+# Opcional: Salvar o DataFrame tratado de volta em um novo arquivo CSV
+df_tratado.to_csv('arquivo_tratado_com_geom.csv', index=False)
