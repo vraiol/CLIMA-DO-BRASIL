@@ -1,0 +1,572 @@
+FID,mslink,zona,tp_umidade,distr_umid,temperatur,desc_compl,the_geom
+ClimadoBrasil_5000.1,2663,Massa d'água,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-44.9878 -1.3565999999999998
+ClimadoBrasil_5000.2,2915,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-46.6624 -0.8445999999999999
+ClimadoBrasil_5000.3,2916,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.993599999999994 -1.0924
+ClimadoBrasil_5000.4,2917,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.869699999999995 -1.1009
+ClimadoBrasil_5000.5,2667,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.567299999999996 -1.206
+ClimadoBrasil_5000.6,2666,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.381299999999996 -1.3927999999999998
+ClimadoBrasil_5000.7,2918,ilha,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.120599999999996 -1.4281
+ClimadoBrasil_5000.8,2920,ilha,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.2765 -1.6738999999999997
+ClimadoBrasil_5000.9,2919,ilha,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-45.3366 -1.6657
+ClimadoBrasil_5000.10,2662,ilha,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-44.4982 -2.4838999999999998
+ClimadoBrasil_5000.11,2835,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-34.8851 -7.6640999999999995
+ClimadoBrasil_5000.12,2836,ilha,,,,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-34.8788 -7.7519
+ClimadoBrasil_5000.13,2913,ilha,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-36.995799999999996 -10.796199999999999
+ClimadoBrasil_5000.14,2914,ilha,,,,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.830999999999996 -13.089899999999998
+ClimadoBrasil_5000.15,518,ilha,,,,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-43.232 -22.755699999999997
+ClimadoBrasil_5000.16,2819,ilha,,,,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-47.69149999999999 -24.8251
+ClimadoBrasil_5000.17,2822,ilha,,,,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-48.3561 -25.434799999999996
+ClimadoBrasil_5000.18,2823,ilha,,,,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-48.328199999999995 -25.581999999999997
+ClimadoBrasil_5000.90,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-53.29535770834811 -16.596624767862533
+ClimadoBrasil_5000.83,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-43.7020662202826 -23.036907791469527
+ClimadoBrasil_5000.19,0,Zona Econômica Exclusiva,,,,Massa d'água,-49.3846 7.051799999999999
+ClimadoBrasil_5000.30,0,Zona Econômica Exclusiva,,,,Massa d'água,-36.03039999999999 -4.647099999999999
+ClimadoBrasil_5000.414,557,Massa d'água,,,,Massa d'água,-53.9646 -2.2430999999999996
+ClimadoBrasil_5000.101,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-38.91653771834381 -10.040574588530141
+ClimadoBrasil_5000.136,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-53.35743222566015 -19.109907508128938
+ClimadoBrasil_5000.20,0,Zona Econômica Exclusiva,,,,Massa d'água,-51.3572 4.8266
+ClimadoBrasil_5000.21,0,Zona Econômica Exclusiva ,,,,Massa d'água,-51.49679999999999 4.6677
+ClimadoBrasil_5000.22,0,Zona Econômica Exclusiva,,,,Massa d'água,-51.5999 4.4605999999999995
+ClimadoBrasil_5000.91,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-48.35143855930433 -21.07629753780629
+ClimadoBrasil_5000.56,0,Equatorial,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido subseca",-65.8933769686374 0.8627446944633627
+ClimadoBrasil_5000.150,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.323077088005164 -22.682947069527906
+ClimadoBrasil_5000.23,0,Zona Econômica Exclusiva,,,,Massa d'água,-30.243000000000002 4.1704
+ClimadoBrasil_5000.24,0,Zona Econômica Exclusiva,,,,Massa d'água,-51.1588 3.9480999999999997
+ClimadoBrasil_5000.25,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-29.359199999999998 0.8253999999999999
+ClimadoBrasil_5000.26,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-29.381599999999995 0.7970999999999999
+ClimadoBrasil_5000.27,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-33.8261 -3.8324
+ClimadoBrasil_5000.28,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-32.455 -3.8104
+ClimadoBrasil_5000.29,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-32.467 -3.8544
+ClimadoBrasil_5000.57,0,Equatorial,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-64.08169052635827 2.936080746669008
+ClimadoBrasil_5000.58,0,Equatorial,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-63.7588219749041 3.0391155516861077
+ClimadoBrasil_5000.31,0,Zona Econômica Exclusiva,,,,Massa d'água,-36.184999999999995 -4.893599999999999
+ClimadoBrasil_5000.32,0,Zona Econômica Exclusiva,,,,Massa d'água,-34.8533 -7.6068999999999996
+ClimadoBrasil_5000.33,0,Zona Econômica Exclusiva,,,,Massa d'água,-34.4204 -7.582499999999999
+ClimadoBrasil_5000.34,0,Zona Econômica Exclusiva,,,,Massa d'água,-34.4204 -7.582499999999999
+ClimadoBrasil_5000.35,0,Zona Econômica Exclusiva,,,,Massa d'água,-35.4602 -15.2067
+ClimadoBrasil_5000.36,0,Zona Econômica Exclusiva,,,,Massa d'água,-38.7333 -15.635999999999997
+ClimadoBrasil_5000.59,0,Equatorial,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-63.64438260511884 2.7019390305868516
+ClimadoBrasil_5000.60,0,Equatorial,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-63.50007072692118 2.893981262247047
+ClimadoBrasil_5000.153,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-41.83635659112686 -21.715103713326297
+ClimadoBrasil_5000.37,0,Zona Econômica Exclusiva,,,,Massa d'água,-30.622 -17.3695
+ClimadoBrasil_5000.38,0,Zona Econômica Exclusiva,,,,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.6844 -18.0277
+ClimadoBrasil_5000.39,0,Zona Econômica Exclusiva,,,,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.6887 -18.109599999999997
+ClimadoBrasil_5000.40,0,Zona Econômica Exclusiva,,,,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.655199999999994 -18.139
+ClimadoBrasil_5000.41,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-28.892599999999998 -20.4823
+ClimadoBrasil_5000.42,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-29.340199999999996 -20.4911
+ClimadoBrasil_5000.43,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-28.8608 -20.508799999999997
+ClimadoBrasil_5000.44,0,Zona Econômica Exclusiva,,,,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-28.853499999999997 -20.5358
+ClimadoBrasil_5000.61,0,Equatorial,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-61.49212517116638 4.3792745426241755
+ClimadoBrasil_5000.62,0,Equatorial,,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Equatorial, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-60.93793617691294 4.564186714976738
+ClimadoBrasil_5000.63,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.40976336351397 1.3507203246565185
+ClimadoBrasil_5000.444,1528,Massa d'água,,,,Massa d'água,-58.4169 -3.3326
+ClimadoBrasil_5000.45,0,Zona Econômica Exclusiva,,,,Massa d'água,-46.595699999999994 -24.0904
+ClimadoBrasil_5000.64,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.415066267676785 1.3423072873390804
+ClimadoBrasil_5000.65,0,Tropical Zona Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-59.08164906880254 1.3003353936325566
+ClimadoBrasil_5000.79,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-56.55818711604458 -20.899036935068803
+ClimadoBrasil_5000.46,0,Zona Econômica Exclusiva,,,,Massa d'água,-46.129099999999994 -24.531899999999997
+ClimadoBrasil_5000.47,0,Zona Econômica Exclusiva,,,,Massa d'água,-45.9494 -24.682799999999997
+ClimadoBrasil_5000.48,0,Equatorial,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, super-úmido sem seca",-73.09385192594021 -6.386427850765345
+ClimadoBrasil_5000.49,0,Equatorial,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, super-úmido sem seca",-48.599567077761215 -1.281959768228179
+ClimadoBrasil_5000.68,0,Tropical Brasil Central,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-43.83611554746263 -22.802455324989065
+ClimadoBrasil_5000.69,0,Tropical Brasil Central,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-39.427582959591575 -16.55937550124355
+ClimadoBrasil_5000.50,0,Equatorial,super-úmido,subseca,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, super-úmido subseca",-73.9520631615489 -7.529170133038426
+ClimadoBrasil_5000.51,0,Equatorial,super-úmido,subseca,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, super-úmido subseca",-48.88980123315671 -1.7290897030508219
+ClimadoBrasil_5000.52,0,Equatorial,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-64.18762250497254 1.4861505476541783
+ClimadoBrasil_5000.109,0,Tropical Brasil Central,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-42.08683901942528 -14.254174905130611
+ClimadoBrasil_5000.53,0,Equatorial,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-56.063341064142634 1.8361528202493727
+ClimadoBrasil_5000.54,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-63.688684423175985 3.9097580588925576
+ClimadoBrasil_5000.55,0,Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-59.08164906880254 1.3003353936325566
+ClimadoBrasil_5000.66,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-60.21219371531422 4.581657086795415
+ClimadoBrasil_5000.67,0,Tropical Brasil Central,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido sem seca",-44.07311527739448 -22.903651398533462
+ClimadoBrasil_5000.158,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-40.683988122784115 -11.080429346309392
+ClimadoBrasil_5000.70,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-43.941123693822355 -22.90325483076233
+ClimadoBrasil_5000.71,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-43.80188444678359 -22.688034608674258
+ClimadoBrasil_5000.72,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-43.25168159247313 -22.84945797233395
+ClimadoBrasil_5000.73,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-42.59436944769609 -22.89264277761167
+ClimadoBrasil_5000.74,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-41.32976098873677 -20.5758516723445
+ClimadoBrasil_5000.75,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-40.881281188360965 -19.962322442767633
+ClimadoBrasil_5000.76,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-40.22124944876912 -20.166839413479035
+ClimadoBrasil_5000.77,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-39.569840822210104 -16.103478108175764
+ClimadoBrasil_5000.78,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-56.973922776657965 -22.21892939874005
+ClimadoBrasil_5000.567,675,Massa d'água,,,,Massa d'água,-53.1641 -33.504599999999996
+ClimadoBrasil_5000.80,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-54.58553489572444 -19.278654261969102
+ClimadoBrasil_5000.81,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-41.73030098672305 -22.27963963815776
+ClimadoBrasil_5000.82,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-43.77187801265656 -22.60297415522416
+ClimadoBrasil_5000.84,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-40.438023292173725 -20.605824709174012
+ClimadoBrasil_5000.85,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-41.237035514342885 -19.861348607246647
+ClimadoBrasil_5000.86,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-39.66978475904438 -14.320895369577253
+ClimadoBrasil_5000.87,0,Tropical Brasil Central,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-40.683988122784115 -11.080429346309392
+ClimadoBrasil_5000.88,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-57.48275481350589 -22.17249162186574
+ClimadoBrasil_5000.89,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-53.56450907816188 -16.594971387638797
+ClimadoBrasil_5000.92,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-48.07065916972959 -20.992875958324223
+ClimadoBrasil_5000.93,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-47.7285351099415 -20.6804397845946
+ClimadoBrasil_5000.94,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-43.044034448861254 -21.056251243300864
+ClimadoBrasil_5000.95,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-42.531370765341 -21.00069179222798
+ClimadoBrasil_5000.137,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-47.98785441881167 -24.335723559145823
+ClimadoBrasil_5000.96,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-40.71498342510704 -20.81541973287196
+ClimadoBrasil_5000.97,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-39.73116585361758 -13.798409041884133
+ClimadoBrasil_5000.98,0,Tropical Brasil Central,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, úmido 3 meses secos",-41.50250299422903 -13.14073672239233
+ClimadoBrasil_5000.99,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-60.775980334547135 -13.692250602889144
+ClimadoBrasil_5000.100,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-50.70690243753914 -17.68878454714137
+ClimadoBrasil_5000.102,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-43.044034448861254 -21.056251243300864
+ClimadoBrasil_5000.103,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-41.81484280891321 -12.791796226118205
+ClimadoBrasil_5000.104,0,Tropical Brasil Central,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-44.847673239294444 -8.372294665956286
+ClimadoBrasil_5000.105,0,Tropical Brasil Central,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-44.03387156647552 -16.264469956256754
+ClimadoBrasil_5000.106,0,Tropical Brasil Central,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-41.81484280891321 -12.791796226118205
+ClimadoBrasil_5000.107,0,Tropical Brasil Central,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-41.52659451478748 -16.788151522086125
+ClimadoBrasil_5000.108,0,Tropical Brasil Central,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-42.9506617305375 -13.492302884360281
+ClimadoBrasil_5000.568,1699,,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.214 1.8640999999999996
+ClimadoBrasil_5000.292,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-50.10000375537632 -26.79791093926401
+ClimadoBrasil_5000.110,0,Tropical Brasil Central,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-41.146551753733604 -8.788564584036937
+ClimadoBrasil_5000.111,0,Tropical Brasil Central,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-39.04902665632558 -10.817419300304278
+ClimadoBrasil_5000.112,0,Tropical Brasil Central,semi-árido,9 a 10 meses secos,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, semi-árido 9 a 10 meses secos",-40.187761175087275 -9.466878368942952
+ClimadoBrasil_5000.113,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-51.544630355677945 -23.804258747070577
+ClimadoBrasil_5000.114,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-50.750618547475156 -23.873729714456875
+ClimadoBrasil_5000.121,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-47.01083479850431 -23.440601311610095
+ClimadoBrasil_5000.122,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-45.630768636154876 -23.43973210249014
+ClimadoBrasil_5000.115,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-45.07137346068843 -23.389020471334952
+ClimadoBrasil_5000.116,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-43.93402138556191 -22.85808189472854
+ClimadoBrasil_5000.117,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-40.9920441551558 -20.33160049715191
+ClimadoBrasil_5000.118,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-40.61314103944966 -20.34139874176208
+ClimadoBrasil_5000.123,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-44.575434261251594 -22.730292134650874
+ClimadoBrasil_5000.124,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-43.937099596591345 -22.86071040367544
+ClimadoBrasil_5000.125,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-43.595982042427885 -22.815471489916483
+ClimadoBrasil_5000.151,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.28553040766653 -22.13811898892153
+ClimadoBrasil_5000.152,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.07776323012925 -22.38690671423245
+ClimadoBrasil_5000.119,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-54.310364470116745 -24.111810616378794
+ClimadoBrasil_5000.569,2633,,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.1491 0.3273
+ClimadoBrasil_5000.570,1698,,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-49.635 0.1903
+ClimadoBrasil_5000.126,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-43.5546129975524 -22.513158133890204
+ClimadoBrasil_5000.127,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-42.92678208528597 -22.297295119413636
+ClimadoBrasil_5000.128,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-42.11034326556004 -22.04933889933755
+ClimadoBrasil_5000.571,2657,,,,,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-48.897299999999994 -0.1433
+ClimadoBrasil_5000.148,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.611619070051475 -22.602149497803946
+ClimadoBrasil_5000.274,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-40.832214127993495 -20.291015835992983
+ClimadoBrasil_5000.316,0,Tropical Zona Equatorial,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-37.833312216077005 -4.400381001072358
+ClimadoBrasil_5000.433,2957,Massa d'água,,,,Massa d'água,-40.8041 -2.8851999999999998
+ClimadoBrasil_5000.120,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-47.81468365134073 -24.671817482385197
+ClimadoBrasil_5000.135,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-53.53931051445302 -20.141500827350107
+ClimadoBrasil_5000.544,2952,Massa d'água,,,,Massa d'água,-46.129099999999994 -24.531899999999997
+ClimadoBrasil_5000.547,965,Massa d'água,,,,Massa d'água,-52.562799999999996 -25.5577
+ClimadoBrasil_5000.434,584,Massa d'água,,,,Massa d'água,-57.65789999999999 -3.0075
+ClimadoBrasil_5000.129,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-41.32976098873677 -20.5758516723445
+ClimadoBrasil_5000.130,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-41.014881080343734 -20.064803134542473
+ClimadoBrasil_5000.131,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-40.48631883645064 -19.87726190959271
+ClimadoBrasil_5000.132,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-54.314147551158506 -24.087138798667432
+ClimadoBrasil_5000.133,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-55.35782511153036 -19.674194795000492
+ClimadoBrasil_5000.134,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-53.97720896525263 -19.415735915255613
+ClimadoBrasil_5000.138,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-46.462787125368365 -23.28922577086047
+ClimadoBrasil_5000.139,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-46.07083857641715 -22.367204020718226
+ClimadoBrasil_5000.140,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-45.78443265631297 -22.109156661034824
+ClimadoBrasil_5000.141,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-45.598570733856434 -21.95288275255115
+ClimadoBrasil_5000.142,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-44.96062555343661 -22.755567049747043
+ClimadoBrasil_5000.186,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-48.73826337645363 -20.530054692847607
+ClimadoBrasil_5000.143,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-44.72553944011395 -22.68752358964935
+ClimadoBrasil_5000.144,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-43.595982042427885 -22.815471489916483
+ClimadoBrasil_5000.145,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-43.46992440810827 -22.36138592857568
+ClimadoBrasil_5000.146,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.771939151877206 -22.11382883488414
+ClimadoBrasil_5000.147,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.68525756824571 -22.72219281549045
+ClimadoBrasil_5000.149,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-42.44124724708567 -22.700323968255
+ClimadoBrasil_5000.545,2959,Massa d'água,,,,Massa d'água,-48.644499999999994 -25.536499999999997
+ClimadoBrasil_5000.546,2953,Massa d'água,,,,Massa d'água,-45.9494 -24.682799999999997
+ClimadoBrasil_5000.454,599,Massa d'água,,,,Massa d'água,-59.3239 -3.6047999999999996
+ClimadoBrasil_5000.154,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-41.816293842704496 -20.76755936863349
+ClimadoBrasil_5000.155,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-41.57601690480756 -20.12361284395965
+ClimadoBrasil_5000.156,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-40.951743781373466 -20.627783627191366
+ClimadoBrasil_5000.157,0,Tropical Brasil Central,úmido,1 a 2 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 1 a 2 meses secos",-40.80456306516863 -19.91598467326117
+ClimadoBrasil_5000.159,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-57.275143655580735 -22.025543260770487
+ClimadoBrasil_5000.160,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-55.35782511153036 -19.674194795000492
+ClimadoBrasil_5000.161,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-54.823898198831586 -19.377463819600745
+ClimadoBrasil_5000.162,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-54.179309236950616 -16.713832145906622
+ClimadoBrasil_5000.163,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-53.540060349802474 -18.7694384946907
+ClimadoBrasil_5000.171,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-42.05639699873387 -20.10493414191773
+ClimadoBrasil_5000.549,664,Massa d'água,,,,Massa d'água,-52.733599999999996 -27.807199999999998
+ClimadoBrasil_5000.164,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-50.842889134056755 -21.24511773309169
+ClimadoBrasil_5000.548,663,Massa d'água,,,,Massa d'água,-51.5467 -26.098599999999998
+ClimadoBrasil_5000.187,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-48.34827113792468 -14.890462296533412
+ClimadoBrasil_5000.165,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-47.282818546899684 -20.414755545612806
+ClimadoBrasil_5000.166,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-46.4878085449014 -22.218049724276018
+ClimadoBrasil_5000.181,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-54.64379974476882 -15.772742946576091
+ClimadoBrasil_5000.194,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-43.57068468576913 -20.895893765686914
+ClimadoBrasil_5000.167,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-45.406155414098905 -23.03968115253883
+ClimadoBrasil_5000.168,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-43.60369727447833 -21.51437277536808
+ClimadoBrasil_5000.169,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-42.8953985758312 -18.443605894433798
+ClimadoBrasil_5000.170,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-42.63748260963467 -20.993703326487548
+ClimadoBrasil_5000.195,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-43.61248824586938 -16.298933243018336
+ClimadoBrasil_5000.550,677,Massa d'água,,,,Massa d'água,-55.380399999999995 -27.961599999999997
+ClimadoBrasil_5000.554,963,Massa d'água,,,,Massa d'água,-48.9248 -28.575899999999997
+ClimadoBrasil_5000.472,610,Massa d'água,,,,Massa d'água,-62.352799999999995 -4.256499999999999
+ClimadoBrasil_5000.172,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-41.90908424441345 -21.762062834802872
+ClimadoBrasil_5000.173,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-41.61833440500859 -21.168381103809512
+ClimadoBrasil_5000.174,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-41.09066951442615 -19.796500941920932
+ClimadoBrasil_5000.175,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-41.50250299422903 -13.14073672239233
+ClimadoBrasil_5000.176,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-40.86882794333103 -11.370137798930587
+ClimadoBrasil_5000.177,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-60.089097614984105 -14.817444141774303
+ClimadoBrasil_5000.178,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-59.513957185620605 -15.87132684870022
+ClimadoBrasil_5000.179,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-55.208586372388446 -15.627520358488162
+ClimadoBrasil_5000.180,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-54.74630141013864 -14.810157260043269
+ClimadoBrasil_5000.275,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, úmido 1 a 2 meses secos",-41.63887458468509 -20.336821245714233
+ClimadoBrasil_5000.182,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-54.179309236950616 -16.713832145906622
+ClimadoBrasil_5000.183,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-53.41313672426575 -16.59509102357357
+ClimadoBrasil_5000.184,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-52.08458184959661 -16.865554145209046
+ClimadoBrasil_5000.185,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-49.49583637994385 -17.484847463303137
+ClimadoBrasil_5000.556,666,Massa d'água,,,,Massa d'água,-49.59689999999999 -29.035999999999998
+ClimadoBrasil_5000.188,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-48.140673967021364 -21.03161120777485
+ClimadoBrasil_5000.189,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-47.944799078322276 -20.87942204873652
+ClimadoBrasil_5000.190,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-45.42946855592541 -22.878471942088407
+ClimadoBrasil_5000.191,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-44.73465026205131 -17.997561833070073
+ClimadoBrasil_5000.192,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-44.28929104387179 -17.690770532098245
+ClimadoBrasil_5000.193,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-43.60369727447833 -21.51437277536808
+ClimadoBrasil_5000.196,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-42.895680534574964 -21.01692628953783
+ClimadoBrasil_5000.197,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-42.94594835129464 -17.116200897259297
+ClimadoBrasil_5000.198,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-42.26800924829548 -21.016935778479247
+ClimadoBrasil_5000.199,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-42.0611954723367 -21.247748567063592
+ClimadoBrasil_5000.557,667,Massa d'água,,,,Massa d'água,-49.735899999999994 -29.170999999999996
+ClimadoBrasil_5000.200,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-42.397246812000475 -12.12954000680301
+ClimadoBrasil_5000.201,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-41.61544825344675 -12.160364996210431
+ClimadoBrasil_5000.202,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-41.12665285349405 -10.202998606971015
+ClimadoBrasil_5000.203,0,Tropical Brasil Central,semi-árido,6 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-árido 6 meses secos",-42.74819178380941 -13.569714014747426
+ClimadoBrasil_5000.204,0,Tropical Brasil Central,semi-árido,6 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-árido 6 meses secos",-42.397246812000475 -12.12954000680301
+ClimadoBrasil_5000.205,0,Tropical Brasil Central,semi-árido,6 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-árido 6 meses secos",-41.43079523595851 -10.310424162373643
+ClimadoBrasil_5000.206,0,Tropical Brasil Central,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, úmido 3 meses secos",-40.46729805995914 -13.311486296022773
+ClimadoBrasil_5000.207,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-51.06742290434604 -23.843966680334923
+ClimadoBrasil_5000.208,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-46.81705202834282 -23.981592754544753
+ClimadoBrasil_5000.209,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-46.58865005728306 -23.691023726323277
+ClimadoBrasil_5000.210,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-46.04359507749553 -22.791711777526917
+ClimadoBrasil_5000.211,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-45.60244704569422 -22.72973552535845
+ClimadoBrasil_5000.212,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-45.405596015896656 -23.50589314101153
+ClimadoBrasil_5000.239,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-45.83057461609329 -22.163946095240398
+ClimadoBrasil_5000.213,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-45.2000581365786 -22.469446349236307
+ClimadoBrasil_5000.214,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-44.808984356440284 -22.319879504955875
+ClimadoBrasil_5000.215,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-43.413073169005564 -22.459502098994943
+ClimadoBrasil_5000.216,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-40.9920441551558 -20.33160049715191
+ClimadoBrasil_5000.217,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-48.49297562110589 -24.405472946123545
+ClimadoBrasil_5000.218,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-46.69998499001705 -23.224808341068936
+ClimadoBrasil_5000.551,962,Massa d'água,,,,Massa d'água,-48.8105 -28.3309
+ClimadoBrasil_5000.552,960,Massa d'água,,,,Massa d'água,-52.4869 -28.425299999999996
+ClimadoBrasil_5000.553,964,Massa d'água,,,,Massa d'água,-48.85999999999999 -28.5735
+ClimadoBrasil_5000.219,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-46.58865005728306 -23.691023726323277
+ClimadoBrasil_5000.240,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-45.628409498456364 -21.965155518511356
+ClimadoBrasil_5000.227,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-46.740898286240025 -21.84484326186601
+ClimadoBrasil_5000.228,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-46.0132977885926 -23.52013122280188
+ClimadoBrasil_5000.220,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-45.50720310411603 -22.73690750260844
+ClimadoBrasil_5000.221,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-43.93805213341088 -22.860141932569807
+ClimadoBrasil_5000.222,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-43.464012856818854 -22.413555346706154
+ClimadoBrasil_5000.223,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-41.86226306894826 -21.785688269230747
+ClimadoBrasil_5000.224,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-41.199793823333835 -20.272768282350654
+ClimadoBrasil_5000.225,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-47.520167467133504 -23.49390947993851
+ClimadoBrasil_5000.226,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-46.69998499001705 -23.224808341068936
+ClimadoBrasil_5000.272,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-44.53004945838619 -22.769447643555687
+ClimadoBrasil_5000.229,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-45.60254582699812 -23.273369434916884
+ClimadoBrasil_5000.253,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-42.723300785096264 -22.10738421577097
+ClimadoBrasil_5000.230,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-45.406155414098905 -23.03968115253883
+ClimadoBrasil_5000.231,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-43.50131517689559 -22.39094821480654
+ClimadoBrasil_5000.232,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-42.88348704844638 -22.271715939327862
+ClimadoBrasil_5000.233,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-42.1622790745557 -22.2748602698562
+ClimadoBrasil_5000.234,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-41.86961374186293 -21.773254733278012
+ClimadoBrasil_5000.235,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-41.816293842704496 -20.76755936863349
+ClimadoBrasil_5000.236,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-40.556697354873904 -19.862114900090177
+ClimadoBrasil_5000.237,0,Tropical Brasil Central,úmido,3 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 3 meses secos",-40.448689449594724 -19.885961373117492
+ClimadoBrasil_5000.559,961,Massa d'água,,,,Massa d'água,-52.7726 -29.656599999999997
+ClimadoBrasil_5000.238,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-47.452577312617244 -20.471447845773145
+ClimadoBrasil_5000.241,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-45.59606024285692 -21.952495537792103
+ClimadoBrasil_5000.242,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-45.406155414098905 -23.03968115253883
+ClimadoBrasil_5000.243,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-44.85180432238814 -22.70410740468552
+ClimadoBrasil_5000.244,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-44.880898640273784 -21.415833847485512
+ClimadoBrasil_5000.245,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.947267859257416 -22.236845566400625
+ClimadoBrasil_5000.246,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.90778277990693 -22.33147488109375
+ClimadoBrasil_5000.247,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.81055767035725 -22.180766745423256
+ClimadoBrasil_5000.248,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.50131517689559 -22.39094821480654
+ClimadoBrasil_5000.558,668,Massa d'água,,,,Massa d'água,-49.87669999999999 -29.401600000000002
+ClimadoBrasil_5000.249,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.50288621485443 -20.720975523090974
+ClimadoBrasil_5000.250,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.19003495666009 -20.69547959623245
+ClimadoBrasil_5000.251,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-43.15220061762019 -20.807647654954607
+ClimadoBrasil_5000.252,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-42.85714573249142 -22.148040504930695
+ClimadoBrasil_5000.327,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-44.7841104177496 -1.4744779661914653
+ClimadoBrasil_5000.254,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-42.724774111579464 -20.991152001122337
+ClimadoBrasil_5000.255,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-42.20438623262125 -20.709721258637483
+ClimadoBrasil_5000.256,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-41.85744965383053 -21.72008498656117
+ClimadoBrasil_5000.257,0,Tropical Brasil Central,úmido,1 a 2 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, úmido 1 a 2 meses secos",-41.71215507506049 -21.71315762852982
+ClimadoBrasil_5000.258,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-47.452577312617244 -20.471447845773145
+ClimadoBrasil_5000.259,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-46.89844422879634 -18.596151663439308
+ClimadoBrasil_5000.260,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-46.80623042269284 -18.906147518477393
+ClimadoBrasil_5000.261,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-46.372124909645876 -18.816211469425127
+ClimadoBrasil_5000.262,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-46.333322408518654 -18.581276407786508
+ClimadoBrasil_5000.273,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-42.99704633083453 -22.396721906073967
+ClimadoBrasil_5000.263,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-46.265360096873174 -19.85768486939986
+ClimadoBrasil_5000.264,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-45.87840147997377 -20.82732718794514
+ClimadoBrasil_5000.265,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-45.37585802032786 -21.67365196273683
+ClimadoBrasil_5000.266,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-42.724774111579464 -20.991152001122337
+ClimadoBrasil_5000.473,549,Massa d'água,,,,Massa d'água,-40.4232 -4.2120999999999995
+ClimadoBrasil_5000.267,0,Tropical Brasil Central,semi-úmido,4 a 5 meses secos,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, semi-úmido 4 a 5 meses",-42.31677205156623 -20.267477205139542
+ClimadoBrasil_5000.268,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-45.60244704569422 -22.72973552535845
+ClimadoBrasil_5000.269,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-45.171400068998004 -22.485452766384764
+ClimadoBrasil_5000.270,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-44.78694467948761 -22.372948000076676
+ClimadoBrasil_5000.271,0,Tropical Brasil Central,super-úmido,sem seca,mesotérmico mediano - média > 10° C,"Tropical Brasil Central, mesotérmico mediano - média > 10° C, super-úmido sem seca",-44.649701242118745 -22.308714874220048
+ClimadoBrasil_5000.555,665,Massa d'água,,,,Massa d'água,-53.2161 -28.756599999999995
+ClimadoBrasil_5000.276,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-53.84107775526921 -25.77927457178149
+ClimadoBrasil_5000.289,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-51.04554957054935 -26.521443858124282
+ClimadoBrasil_5000.277,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-52.885448381714234 -23.947833896004237
+ClimadoBrasil_5000.278,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-51.06742290434604 -23.843966680334923
+ClimadoBrasil_5000.279,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-49.67217688445636 -24.844315737004848
+ClimadoBrasil_5000.328,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-44.784807693922446 -1.642854901159016
+ClimadoBrasil_5000.280,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-47.81468365134073 -24.671817482385197
+ClimadoBrasil_5000.281,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-49.060515338965075 -24.78193631553546
+ClimadoBrasil_5000.282,0,Temperado,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido subseca",-54.079348275047984 -25.57297509488898
+ClimadoBrasil_5000.283,0,Temperado,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido subseca",-48.49297562110589 -24.405472946123545
+ClimadoBrasil_5000.284,0,Temperado,super-úmido,sem seca,mesotérmico brando - média entre 10 e 15° C,"Temperado, mesotérmico brando - média entre 10 e 15° C, super-úmido sem seca",-57.51355910825016 -30.11276492913465
+ClimadoBrasil_5000.285,0,Temperado,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Temperado, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-49.434849479436465 -24.10677026938561
+ClimadoBrasil_5000.286,0,Temperado,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Temperado, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-48.77239271300601 -24.765696497444125
+ClimadoBrasil_5000.287,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-51.32373585839084 -28.019816679360986
+ClimadoBrasil_5000.288,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-51.151053776249995 -25.41610285083947
+ClimadoBrasil_5000.290,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-50.71419144765118 -27.013645747345166
+ClimadoBrasil_5000.313,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-38.31300793637161 -3.9392767208180857
+ClimadoBrasil_5000.291,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-50.407105773967004 -29.215470209563335
+ClimadoBrasil_5000.293,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.7795047812801 -26.509086228081873
+ClimadoBrasil_5000.294,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.7709106316165 -24.748082367311078
+ClimadoBrasil_5000.295,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.51122080008663 -26.60769540246687
+ClimadoBrasil_5000.296,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.39139932932539 -25.602122565377645
+ClimadoBrasil_5000.297,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.204617226426635 -26.21186420911513
+ClimadoBrasil_5000.298,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-49.22662602313725 -25.208668828428383
+ClimadoBrasil_5000.299,0,Temperado,super-úmido,subseca,mesotérmico mediano - média > 10° C,"Temperado, mesotérmico mediano - média > 10° C, super-úmido subseca",-48.98988236492957 -25.69988204438344
+ClimadoBrasil_5000.560,669,Massa d'água,,,,Massa d'água,-50.147099999999995 -29.6896
+ClimadoBrasil_5000.300,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.53816019827312 2.1822508840402097
+ClimadoBrasil_5000.301,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.496698949031234 0.2784477788849752
+ClimadoBrasil_5000.302,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.415066267676785 1.3423072873390804
+ClimadoBrasil_5000.303,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.387726666666666 0.1886152777777778
+ClimadoBrasil_5000.304,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.291559166666666 0.3690930555555555
+ClimadoBrasil_5000.305,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.27526244520243 0.7816778432933883
+ClimadoBrasil_5000.306,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-50.015678495095415 1.0256913332270066
+ClimadoBrasil_5000.307,0,Tropical Zona Equatorial,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, super-úmido subseca",-38.96262351102046 -4.171131535756216
+ClimadoBrasil_5000.308,0,Tropical Zona Equatorial,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 1 a 2 meses secos",-38.901379825793256 -4.048019150526933
+ClimadoBrasil_5000.561,670,Massa d'água,,,,Massa d'água,-50.24139999999999 -29.770299999999995
+ClimadoBrasil_5000.562,671,Massa d'água,,,,Massa d'água,-50.4411 -29.8906
+ClimadoBrasil_5000.322,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-48.725270529640746 -26.29632721506676
+ClimadoBrasil_5000.323,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-48.61007515173732 -27.661069645085345
+ClimadoBrasil_5000.324,0,Temperado,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Temperado, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, super-úmido sem seca",-47.903573055555555 -25.046881111111112
+ClimadoBrasil_5000.563,672,Massa d'água,,,,Massa d'água,-51.2481 -30.292499999999997
+ClimadoBrasil_5000.309,0,Tropical Zona Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-39.005040139603736 -4.016511761222997
+ClimadoBrasil_5000.310,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-50.0128 -9.07551
+ClimadoBrasil_5000.311,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-41.05876699407058 -3.356073985710373
+ClimadoBrasil_5000.312,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-40.396976173069106 -7.326545263569336
+ClimadoBrasil_5000.329,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-44.64206346437066 -2.960758670173096
+ClimadoBrasil_5000.314,0,Tropical Zona Equatorial,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-42.76610168020243 -2.566900830361466
+ClimadoBrasil_5000.325,0,Tropical Brasil Central,super-úmido,sem seca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido sem seca",-45.29886834863288 -23.713389608713822
+ClimadoBrasil_5000.315,0,Tropical Zona Equatorial,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-40.45201966585384 -7.221144654020874
+ClimadoBrasil_5000.317,0,Tropical Zona Equatorial,semi-árido,9 a 10 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 9 a 10 meses secos",-38.39230318231212 -9.229136249565833
+ClimadoBrasil_5000.318,0,Tropical Zona Equatorial,semi-árido,9 a 10 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 9 a 10 meses secos",-36.76523477665088 -6.73807260541158
+ClimadoBrasil_5000.319,0,Tropical Zona Equatorial,semi-árido,11 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 11 meses secos",-39.095185218535335 -8.824470082314548
+ClimadoBrasil_5000.320,0,Tropical Zona Equatorial,semi-árido,11 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-árido 11 meses secos",-36.36527281000425 -6.976227200448455
+ClimadoBrasil_5000.321,0,Equatorial,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Equatorial, quente - média > 18° C em todos os meses, úmido 3 meses secos",-49.81238715451283 -0.0635551407198206
+ClimadoBrasil_5000.326,0,Tropical Brasil Central,super-úmido,subseca,mesotérmico brando - média entre 10 e 15° C,"Tropical Brasil Central, mesotérmico brando - média entre 10 e 15° C, super-úmido subseca",-45.34863913021192 -23.747222252840515
+ClimadoBrasil_5000.330,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-44.55409475993404 -2.9563528633750313
+ClimadoBrasil_5000.331,0,Tropical Brasil Central,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Brasil Central, quente - média > 18° C em todos os meses, super-úmido subseca",-44.37787083333333 -23.123359444444443
+ClimadoBrasil_5000.332,0,Tropical Brasil Central,super-úmido,subseca,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Brasil Central, subquente - média entre 15 e 18º C em pelo menos 1 mês, super-úmido subseca",-44.259851388446506 -23.095657183092822
+ClimadoBrasil_5000.333,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-43.85389404990999 -2.516073877900983
+ClimadoBrasil_5000.334,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-43.790847481106724 -2.442833989184316
+ClimadoBrasil_5000.335,0,Tropical Zona Equatorial,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Zona Equatorial, quente - média > 18° C em todos os meses, semi-úmido 4 a 5 meses secos",-43.68012006423829 -2.2832521391517178
+ClimadoBrasil_5000.367,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.967254991199844 -13.574737779947258
+ClimadoBrasil_5000.339,0,Tropical Nordeste Oriental,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido subseca",-37.38372946418476 -11.236293891385811
+ClimadoBrasil_5000.340,0,Tropical Nordeste Oriental,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido subseca",-37.35605035328959 -11.358688674399865
+ClimadoBrasil_5000.341,0,Tropical Nordeste Oriental,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido subseca",-35.14313523440717 -8.745935480315628
+ClimadoBrasil_5000.399,580,Massa d'água,,,,Massa d'água,-57.00789999999999 -1.9769999999999999
+ClimadoBrasil_5000.400,572,Massa d'água,,,,Massa d'água,-56.326499999999996 -1.9886
+ClimadoBrasil_5000.336,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.25616858688849 -12.887754410785154
+ClimadoBrasil_5000.337,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-35.17245972150742 -8.804167773209747
+ClimadoBrasil_5000.338,0,Tropical Nordeste Oriental,super-úmido,subseca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido subseca",-38.08034225830624 -12.67813115179043
+ClimadoBrasil_5000.401,562,Massa d'água,,,,Massa d'água,-55.4795 -2.0593999999999997
+ClimadoBrasil_5000.342,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-37.185844753436676 -11.141497536114352
+ClimadoBrasil_5000.343,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-37.86626778282066 -9.14109145562051
+ClimadoBrasil_5000.344,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-36.36173929218047 -9.2739123356241
+ClimadoBrasil_5000.345,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-34.98342355072495 -8.310799108259085
+ClimadoBrasil_5000.346,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-35.755400143030954 -6.929672370426329
+ClimadoBrasil_5000.347,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-34.98899416128367 -6.710555293280136
+ClimadoBrasil_5000.348,0,Tropical Nordeste Oriental,úmido,1 a 2 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18º C em todos os meses, úmido 1 a 2 meses secos",-34.83247749989463 -7.50970968017409
+ClimadoBrasil_5000.349,0,Tropical Nordeste Oriental,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, úmido 3 meses secos",-37.077113291776485 -10.905981779192684
+ClimadoBrasil_5000.350,0,Tropical Nordeste Oriental,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, úmido 3 meses secos",-37.2234922273702 -8.684047480097348
+ClimadoBrasil_5000.412,576,Massa d'água,,,,Massa d'água,-56.57569999999999 -2.2232
+ClimadoBrasil_5000.351,0,Tropical Nordeste Oriental,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, úmido 3 meses secos",-36.46455154345665 -9.204791654842891
+ClimadoBrasil_5000.352,0,Tropical Nordeste Oriental,úmido,3 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, úmido 3 meses secos",-34.994112791258 -6.695800819864104
+ClimadoBrasil_5000.353,0,Tropical Nordeste Oriental,semi-úmido,4 a 5 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18 ° C em todos os meses, semi-úmido 4 a 5 meses secos",-39.06579360702696 -10.597252553628978
+ClimadoBrasil_5000.354,0,Tropical Nordeste Oriental,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-38.91653771834381 -10.040574588530141
+ClimadoBrasil_5000.355,0,Tropical Nordeste Oriental,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-35.50611836996792 -6.314552562246654
+ClimadoBrasil_5000.356,0,Tropical Nordeste Oriental,semi-árido,6 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 6 meses secos",-35.4774573266291 -6.985179651120042
+ClimadoBrasil_5000.368,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-38.738472099672535 -13.044951028510994
+ClimadoBrasil_5000.402,573,Massa d'água,,,,Massa d'água,-56.192299999999996 -2.0974
+ClimadoBrasil_5000.403,564,Massa d'água,,,,Massa d'água,-55.7604 -2.1296999999999997
+ClimadoBrasil_5000.404,2955,Massa d'água,,,,Massa d'água,-44.4829 -2.0635
+ClimadoBrasil_5000.405,563,Massa d'água,,,,Massa d'água,-55.63569999999999 -2.0611999999999995
+ClimadoBrasil_5000.357,0,Tropical Nordeste Oriental,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-38.39230318231212 -9.229136249565833
+ClimadoBrasil_5000.358,0,Tropical Nordeste Oriental,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-39.02655527797006 -11.113301108262261
+ClimadoBrasil_5000.359,0,Tropical Nordeste Oriental,semi-árido,7 a 8 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 7 a 8 meses secos",-35.712697597284446 -7.82329534892172
+ClimadoBrasil_5000.360,0,Tropical Nordeste Oriental,semi-árido,9 a 10 meses secos,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, semi-árido 9 a 10 meses secos",-38.80428695476436 -9.788256967635135
+ClimadoBrasil_5000.361,0,Tropical Nordeste Oriental,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Nordeste Oriental, subquente - média entre 15 e 18º C em pelo menos 1 mês, úmido 3 meses secos",-37.2234922273702 -8.684047480097348
+ClimadoBrasil_5000.362,0,Tropical Nordeste Oriental,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Nordeste Oriental, subquente - média entre 15 e 18º C em pelo menos 1 mês, úmido 3 meses secos",-36.96336103895613 -8.333239676484764
+ClimadoBrasil_5000.363,0,Tropical Nordeste Oriental,úmido,3 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Nordeste Oriental, subquente - média entre 15 e 18º C em pelo menos 1 mês, úmido 3 meses secos",-36.95776953204536 -8.408471358932518
+ClimadoBrasil_5000.364,0,Tropical Nordeste Oriental,semi-úmido,4 a 5 meses secos,subquente - média entre 15 e 18 ° em pelo menos 1 mês,"Tropical Nordeste Oriental, subquente - média entre 15 e 18 ° C em pelo menos 1 mês, semi-úmido 4 a 5 meses secos",-36.70203888012359 -8.63735886464362
+ClimadoBrasil_5000.365,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-39.029315091016905 -13.5157439468077
+ClimadoBrasil_5000.366,0,Tropical Nordeste Oriental,super-úmido,sem seca,quente - média > 18° C em todos os meses,"Tropical Nordeste Oriental, quente - média > 18° C em todos os meses, super-úmido sem seca",-39.03574443372012 -13.424916369274898
+ClimadoBrasil_5000.413,622,Massa d'água,,,,Massa d'água,-66.8442 -2.2154
+ClimadoBrasil_5000.369,2951,Massa d'água,,,,Massa d'água,-49.3846 7.051799999999999
+ClimadoBrasil_5000.383,1473,Massa d'água,,,,Massa d'água,-53.178399999999996 0.3704
+ClimadoBrasil_5000.384,1472,Massa d'água,,,,Massa d'água,-53.7587 -0.175
+ClimadoBrasil_5000.385,567,Massa d'água,,,,Massa d'água,-56.75999999999999 -0.5259
+ClimadoBrasil_5000.386,1235,Massa d'água,,,,Massa d'água,-48.385099999999994 -0.2863
+ClimadoBrasil_5000.387,554,Massa d'água,,,,Massa d'água,-49.1646 -0.5806999999999999
+ClimadoBrasil_5000.388,617,Massa d'água,,,,Massa d'água,-62.288799999999995 -0.5917
+ClimadoBrasil_5000.406,1529,Massa d'água,,,,Massa d'água,-56.275499999999994 -2.1267
+ClimadoBrasil_5000.407,575,Massa d'água,,,,Massa d'água,-56.449799999999996 -2.1177
+ClimadoBrasil_5000.408,574,Massa d'água,,,,Massa d'água,-56.364599999999996 -2.1811
+ClimadoBrasil_5000.409,559,Massa d'água,,,,Massa d'água,-54.6352 -2.1616999999999997
+ClimadoBrasil_5000.410,565,Massa d'água,,,,Massa d'água,-55.7934 -2.1673999999999998
+ClimadoBrasil_5000.411,558,Massa d'água,,,,Massa d'água,-54.680699999999995 -2.167
+ClimadoBrasil_5000.370,2950,Massa d'água,,,,Massa d'água,-51.3572 4.8266
+ClimadoBrasil_5000.371,2949,Massa d'água,,,,Massa d'água,-51.49679999999999 4.6677
+ClimadoBrasil_5000.372,1487,Massa d'água,,,,Massa d'água,-51.5999 4.4605999999999995
+ClimadoBrasil_5000.396,570,Massa d'água,,,,Massa d'água,-55.88709999999999 -1.8947
+ClimadoBrasil_5000.397,553,Massa d'água,,,,Massa d'água,-51.3214 -1.6382999999999999
+ClimadoBrasil_5000.398,1530,Massa d'água,,,,Massa d'água,-55.933899999999994 -1.9926999999999997
+ClimadoBrasil_5000.373,2948,Massa d'água,,,,Massa d'água,-30.243000000000002 4.1704
+ClimadoBrasil_5000.564,673,Massa d'água,,,,Massa d'água,-51.0181 -31.081299999999995
+ClimadoBrasil_5000.374,1486,Massa d'água,,,,Massa d'água,-51.1588 3.9480999999999997
+ClimadoBrasil_5000.375,555,Massa d'água,,,,Massa d'água,-61.04619999999999 1.8629999999999998
+ClimadoBrasil_5000.376,542,Massa d'água,,,,Massa d'água,-50.7467 1.4245999999999999
+ClimadoBrasil_5000.377,1485,Massa d'água,,,,Massa d'água,-50.410199999999996 1.3504
+ClimadoBrasil_5000.378,543,Massa d'água,,,,Massa d'água,-50.105799999999995 1.2013
+ClimadoBrasil_5000.379,1477,Massa d'água,,,,Massa d'água,-53.117399999999996 0.6652999999999999
+ClimadoBrasil_5000.380,1476,Massa d'água,,,,Massa d'água,-53.141799999999996 0.6243
+ClimadoBrasil_5000.381,1475,Massa d'água,,,,Massa d'água,-53.1581 0.5941
+ClimadoBrasil_5000.382,1474,Massa d'água,,,,Massa d'água,-53.17059999999999 0.4611999999999999
+ClimadoBrasil_5000.389,602,Massa d'água,,,,Massa d'água,-60.4645 -1.2456
+ClimadoBrasil_5000.390,568,Massa d'água,,,,Massa d'água,-56.7007 -1.3354
+ClimadoBrasil_5000.391,1531,Massa d'água,,,,Massa d'água,-55.968999999999994 -1.4606
+ClimadoBrasil_5000.392,2924,Massa d'água,,,,Massa d'água,-45.3022 -1.5082999999999998
+ClimadoBrasil_5000.393,623,Massa d'água,,,,Massa d'água,-65.9288 -1.6378999999999997
+ClimadoBrasil_5000.565,674,Massa d'água,,,,Massa d'água,-51.122299999999996 -31.3699
+ClimadoBrasil_5000.394,569,Massa d'água,,,,Massa d'água,-56.234899999999996 -1.8532999999999997
+ClimadoBrasil_5000.395,571,Massa d'água,,,,Massa d'água,-55.7127 -1.8969
+ClimadoBrasil_5000.415,561,Massa d'água,,,,Massa d'água,-55.617599999999996 -2.2474999999999996
+ClimadoBrasil_5000.416,621,Massa d'água,,,,Massa d'água,-67.0949 -2.2878999999999996
+ClimadoBrasil_5000.417,578,Massa d'água,,,,Massa d'água,-56.7127 -2.3569
+ClimadoBrasil_5000.418,2954,Massa d'água,,,,Massa d'água,-43.6139 -2.2801
+ClimadoBrasil_5000.419,560,Massa d'água,,,,Massa d'água,-54.68039999999999 -2.3205
+ClimadoBrasil_5000.420,577,Massa d'água,,,,Massa d'água,-56.608599999999996 -2.3569
+ClimadoBrasil_5000.421,556,Massa d'água,,,,Massa d'água,-54.461999999999996 -2.2928
+ClimadoBrasil_5000.422,551,Massa d'água,,,,Massa d'água,-45.407799999999995 -2.3457999999999997
+ClimadoBrasil_5000.423,552,Massa d'água,,,,Massa d'água,-45.442099999999996 -2.3749999999999996
+ClimadoBrasil_5000.439,1553,Massa d'água,,,,Massa d'água,-59.1338 -2.8488999999999995
+ClimadoBrasil_5000.440,587,Massa d'água,,,,Massa d'água,-56.662299999999995 -2.9195999999999995
+ClimadoBrasil_5000.441,1554,Massa d'água,,,,Massa d'água,-59.696799999999996 -3.1395999999999997
+ClimadoBrasil_5000.442,590,Massa d'água,,,,Massa d'água,-57.919999999999995 -3.2055
+ClimadoBrasil_5000.443,566,Massa d'água,,,,Massa d'água,-52.2187 -3.2058
+ClimadoBrasil_5000.424,2956,Massa d'água,,,,Massa d'água,-44.3553 -2.3343
+ClimadoBrasil_5000.425,579,Massa d'água,,,,Massa d'água,-56.318799999999996 -2.3747
+ClimadoBrasil_5000.426,2846,Massa d'água,,,,Massa d'água,-65.81819999999999 -2.5469999999999997
+ClimadoBrasil_5000.427,581,Massa d'água,,,,Massa d'água,-58.41909999999999 -2.4298999999999995
+ClimadoBrasil_5000.428,582,Massa d'água,,,,Massa d'água,-56.997699999999995 -2.6523999999999996
+ClimadoBrasil_5000.429,618,Massa d'água,,,,Massa d'água,-64.47439999999999 -2.75
+ClimadoBrasil_5000.430,583,Massa d'água,,,,Massa d'água,-57.509100000000004 -2.7802
+ClimadoBrasil_5000.431,620,Massa d'água,,,,Massa d'água,-65.9285 -2.82
+ClimadoBrasil_5000.432,586,Massa d'água,,,,Massa d'água,-56.9201 -2.7913999999999994
+ClimadoBrasil_5000.435,600,Massa d'água,,,,Massa d'água,-58.0259 -2.7678
+ClimadoBrasil_5000.436,619,Massa d'água,,,,Massa d'água,-65.16609999999999 -3.0689999999999995
+ClimadoBrasil_5000.437,585,Massa d'água,,,,Massa d'água,-57.62379999999999 -3.0423
+ClimadoBrasil_5000.438,589,Massa d'água,,,,Massa d'água,-58.068099999999994 -3.0674999999999994
+ClimadoBrasil_5000.445,550,Massa d'água,,,,Massa d'água,-45.15689999999999 -3.3132999999999995
+ClimadoBrasil_5000.446,614,Massa d'água,,,,Massa d'água,-62.55509999999999 -3.3848
+ClimadoBrasil_5000.447,606,Massa d'água,,,,Massa d'água,-61.160799999999995 -3.379
+ClimadoBrasil_5000.448,591,Massa d'água,,,,Massa d'água,-57.967999999999996 -3.3754999999999997
+ClimadoBrasil_5000.449,616,Massa d'água,,,,Massa d'água,-64.19789999999999 -3.4648
+ClimadoBrasil_5000.450,604,Massa d'água,,,,Massa d'água,-60.238 -3.3731999999999998
+ClimadoBrasil_5000.451,607,Massa d'água,,,,Massa d'água,-61.456599999999995 -3.51
+ClimadoBrasil_5000.452,609,Massa d'água,,,,Massa d'água,-62.491699999999994 -3.6267
+ClimadoBrasil_5000.453,615,Massa d'água,,,,Massa d'água,-63.52239999999999 -3.389
+ClimadoBrasil_5000.455,603,Massa d'água,,,,Massa d'água,-60.473699999999994 -3.4282
+ClimadoBrasil_5000.456,598,Massa d'água,,,,Massa d'água,-59.4787 -3.6544999999999996
+ClimadoBrasil_5000.457,597,Massa d'água,,,,Massa d'água,-59.1567 -3.5805999999999996
+ClimadoBrasil_5000.458,608,Massa d'água,,,,Massa d'água,-62.66839999999999 -3.6329999999999996
+ClimadoBrasil_5000.459,595,Massa d'água,,,,Massa d'água,-58.8423 -3.6708999999999996
+ClimadoBrasil_5000.460,588,Massa d'água,,,,Massa d'água,-57.5351 -3.9303999999999997
+ClimadoBrasil_5000.461,1346,Massa d'água,,,,Massa d'água,-44.8959 -3.7534
+ClimadoBrasil_5000.462,605,Massa d'água,,,,Massa d'água,-59.993399999999994 -3.5734999999999997
+ClimadoBrasil_5000.463,547,Massa d'água,,,,Massa d'água,-39.2641 -3.7755999999999994
+ClimadoBrasil_5000.464,596,Massa d'água,,,,Massa d'água,-59.1237 -3.8724
+ClimadoBrasil_5000.465,594,Massa d'água,,,,Massa d'água,-58.805099999999996 -3.9591
+ClimadoBrasil_5000.466,592,Massa d'água,,,,Massa d'água,-57.9366 -3.4875999999999996
+ClimadoBrasil_5000.467,601,Massa d'água,,,,Massa d'água,-59.10799999999999 -3.9939999999999998
+ClimadoBrasil_5000.468,548,Massa d'água,,,,Massa d'água,-39.514199999999995 -4.1152999999999995
+ClimadoBrasil_5000.469,546,Massa d'água,,,,Massa d'água,-38.624399999999994 -4.126799999999999
+ClimadoBrasil_5000.470,593,Massa d'água,,,,Massa d'água,-58.2624 -4.1861
+ClimadoBrasil_5000.471,544,Massa d'água,,,,Massa d'água,-38.455299999999994 -4.1853
+ClimadoBrasil_5000.474,611,Massa d'água,,,,Massa d'água,-62.1461 -4.3919
+ClimadoBrasil_5000.475,613,Massa d'água,,,,Massa d'água,-63.1685 -4.410299999999999
+ClimadoBrasil_5000.486,634,Massa d'água,,,,Massa d'água,-39.1233 -6.1949
+ClimadoBrasil_5000.487,625,Massa d'água,,,,Massa d'água,-62.49999999999999 -6.408499999999999
+ClimadoBrasil_5000.476,2947,Massa d'água,,,,Massa d'água,-36.03039999999999 -4.647099999999999
+ClimadoBrasil_5000.477,2942,Massa d'água,,,,Massa d'água,-36.184999999999995 -4.893599999999999
+ClimadoBrasil_5000.478,545,Massa d'água,,,,Massa d'água,-37.7966 -4.852
+ClimadoBrasil_5000.479,612,Massa d'água,,,,Massa d'água,-62.4413 -4.977799999999999
+ClimadoBrasil_5000.480,629,Massa d'água,,,,Massa d'água,-60.7222 -5.251499999999999
+ClimadoBrasil_5000.481,633,Massa d'água,,,,Massa d'água,-38.9813 -5.2998
+ClimadoBrasil_5000.482,636,Massa d'água,,,,Massa d'água,-36.91329999999999 -5.6624
+ClimadoBrasil_5000.483,628,Massa d'água,,,,Massa d'água,-61.83599999999999 -6.036
+ClimadoBrasil_5000.484,627,Massa d'água,,,,Massa d'água,-61.8027 -6.1296
+ClimadoBrasil_5000.485,624,Massa d'água,,,,Massa d'água,-64.2269 -6.137999999999999
+ClimadoBrasil_5000.488,631,Massa d'água,,,,Massa d'água,-44.0575 -6.7073
+ClimadoBrasil_5000.489,635,Massa d'água,,,,Massa d'água,-37.9818 -7.029699999999999
+ClimadoBrasil_5000.490,626,Massa d'água,,,,Massa d'água,-62.84839999999999 -7.202499999999999
+ClimadoBrasil_5000.491,637,Massa d'água,,,,Massa d'água,-36.360699999999994 -7.600899999999999
+ClimadoBrasil_5000.492,2943,Massa d'água,,,,Massa d'água,-34.8533 -7.6068999999999996
+ClimadoBrasil_5000.493,2926,Massa d'água,,,,Massa d'água,-34.4204 -7.582499999999999
+ClimadoBrasil_5000.494,2927,Massa d'água,,,,Massa d'água,-34.4204 -7.582499999999999
+ClimadoBrasil_5000.495,638,Massa d'água,,,,Massa d'água,-37.7495 -8.526699999999998
+ClimadoBrasil_5000.501,2925,Massa d'água,,,,Massa d'água,-38.699099999999994 -12.649399999999998
+ClimadoBrasil_5000.502,641,Massa d'água,,,,Massa d'água,-53.3987 -12.706999999999999
+ClimadoBrasil_5000.521,650,Massa d'água,,,,Massa d'água,-51.305299999999995 -20.6449
+ClimadoBrasil_5000.496,1709,Massa d'água,,,,Massa d'água,-39.5558 -8.5491
+ClimadoBrasil_5000.497,630,Massa d'água,,,,Massa d'água,-63.1711 -9.369499999999999
+ClimadoBrasil_5000.498,632,Massa d'água,,,,Massa d'água,-40.258799999999994 -9.0176
+ClimadoBrasil_5000.499,639,Massa d'água,,,,Massa d'água,-39.0133 -12.3459
+ClimadoBrasil_5000.500,640,Massa d'água,,,,Massa d'água,-53.4206 -12.5902
+ClimadoBrasil_5000.508,642,Massa d'água,,,,Massa d'água,-55.9503 -16.103799999999996
+ClimadoBrasil_5000.503,2946,Massa d'água,,,,Massa d'água,-35.4602 -15.2067
+ClimadoBrasil_5000.504,2929,Massa d'água,,,,Massa d'água,-38.7333 -15.635999999999997
+ClimadoBrasil_5000.505,2945,Massa d'água,,,,Massa d'água,-38.5297 -15.589099999999998
+ClimadoBrasil_5000.506,1144,Massa d'água,,,,Massa d'água,-47.789199999999994 -15.791299999999998
+ClimadoBrasil_5000.507,643,Massa d'água,,,,Massa d'água,-56.1219 -15.8292
+ClimadoBrasil_5000.509,2928,Massa d'água,,,,Massa d'água,-30.622 -17.3695
+ClimadoBrasil_5000.510,646,Massa d'água,,,,Massa d'água,-58.4662 -16.982699999999998
+ClimadoBrasil_5000.511,644,Massa d'água,,,,Massa d'água,-57.8448 -17.476399999999998
+ClimadoBrasil_5000.512,645,Massa d'água,,,,Massa d'água,-57.73309999999999 -17.7275
+ClimadoBrasil_5000.513,649,Massa d'água,,,,Massa d'água,-48.594699999999996 -18.0282
+ClimadoBrasil_5000.514,647,Massa d'água,,,,Massa d'água,-57.5995445509877 -18.08474770532403
+ClimadoBrasil_5000.515,652,Massa d'água,,,,Massa d'água,-45.4747 -18.394199999999998
+ClimadoBrasil_5000.516,651,Massa d'água,,,,Massa d'água,-50.055699999999995 -18.5538
+ClimadoBrasil_5000.520,655,Massa d'água,,,,Massa d'água,-45.934 -20.7049
+ClimadoBrasil_5000.522,988,Massa d'água,,,,Massa d'água,-46.1098 -20.9413
+ClimadoBrasil_5000.517,648,Massa d'água,,,,Massa d'água,-57.503499999999995 -17.886599999999998
+ClimadoBrasil_5000.518,657,Massa d'água,,,,Massa d'água,-48.8752 -20.165499999999998
+ClimadoBrasil_5000.519,656,Massa d'água,,,,Massa d'água,-47.0594 -20.341299999999997
+ClimadoBrasil_5000.523,966,Massa d'água,,,,Massa d'água,-50.102599999999995 -21.0303
+ClimadoBrasil_5000.524,990,Massa d'água,,,,Massa d'água,-44.643299999999996 -21.310699999999997
+ClimadoBrasil_5000.525,989,Massa d'água,,,,Massa d'água,-44.568799999999996 -21.3337
+ClimadoBrasil_5000.526,653,Massa d'água,,,,Massa d'água,-41.095299999999995 -21.570999999999998
+ClimadoBrasil_5000.527,654,Massa d'água,,,,Massa d'água,-41.3448 -21.8937
+ClimadoBrasil_5000.528,967,Massa d'água,,,,Massa d'água,-48.642599999999995 -22.483
+ClimadoBrasil_5000.529,992,Massa d'água,,,,Massa d'água,-44.5804 -22.521199999999997
+ClimadoBrasil_5000.530,659,Massa d'água,,,,Massa d'água,-48.4899 -22.545099999999998
+ClimadoBrasil_5000.531,2958,Massa d'água,,,,Massa d'água,-43.235099999999996 -22.693199999999997
+ClimadoBrasil_5000.566,676,Massa d'água,,,,Massa d'água,-52.65299999999999 -32.163599999999995
+ClimadoBrasil_5000.532,661,Massa d'água,,,,Massa d'água,-50.9934 -22.690899999999996
+ClimadoBrasil_5000.533,991,Massa d'água,,,,Massa d'água,-43.9573 -22.717299999999998
+ClimadoBrasil_5000.534,995,Massa d'água,,,,Massa d'água,-42.4 -22.861299999999996
+ClimadoBrasil_5000.535,994,Massa d'água,,,,Massa d'água,-42.6155 -22.8553
+ClimadoBrasil_5000.536,993,Massa d'água,,,,Massa d'água,-42.77519999999999 -22.8751
+ClimadoBrasil_5000.537,658,Massa d'água,,,,Massa d'água,-49.21639999999999 -23.1561
+ClimadoBrasil_5000.538,985,Massa d'água,,,,Massa d'água,-45.730199999999996 -23.3373
+ClimadoBrasil_5000.539,986,Massa d'água,,,,Massa d'água,-45.4259 -23.4363
+ClimadoBrasil_5000.540,987,Massa d'água,,,,Massa d'água,-45.950199999999995 -23.5621
+ClimadoBrasil_5000.541,660,Massa d'água,,,,Massa d'água,-49.6322 -23.587899999999998
+ClimadoBrasil_5000.542,662,Massa d'água,,,,Massa d'água,-46.6551 -23.7495
+ClimadoBrasil_5000.543,2944,Massa d'água,,,,Massa d'água,-46.595699999999994 -24.0904
